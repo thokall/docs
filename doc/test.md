@@ -1,2 +1,6 @@
 ## Fungerar detta
-Detta blir en enkel fil
+Detta blir en enkel fil.
+
+Mer info
+
+# eller
