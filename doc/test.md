@@ -36,3 +36,6 @@ man skriva lite html kod.
   <img src="images/logo.png" alt="Logo"/>
   <figcaption>This is my caption text.</figcaption>
 </figure>
+
+
+test
