@@ -26,14 +26,14 @@ eller om man hellre vill siffror
 
 # Det går att lägga till bilder och bildtext
 
-![NRM Logo](doc/images/logo.png)
+![NRM Logo](./images/logo.png)
 
 ## Bild med bildtext
 Det går inte enkelt att addera figurtext med markdown. Istället får
 man skriva lite html kod.
 
 <figure>
-  <img src="doc/images/logo.png" alt="Logo"/>
+  <img src="./images/logo.png" alt="Logo"/>
   <figcaption>This is my caption text.</figcaption>
 </figure>
 
